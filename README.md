@@ -17,5 +17,4 @@
 
 כמו כן הוספתי אפשרות לרפרש את הדף ע"י החלקת האצבע מלמעלה ללמטה על המסך .
 
-<img src="https://github.com/bina100/https://github.com/bina100/BluetoothDeviceList/Screenshot_20210418-232938_BluetoothDeviceList.jpg
-" width="50%"></img>
+<img src="https://github.com/bina100/BluetoothDeviceList/blob/master/Screenshot_20210418-232938_BluetoothDeviceList.jpg" width="30%"></img>
